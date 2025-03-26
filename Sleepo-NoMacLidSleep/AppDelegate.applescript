@@ -1,5 +1,5 @@
 (*
-Copyright (C) 2023  Gregor Gottschewski
+Copyright (C) 2023 - 2025  Gregor Gottschewski
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
@@ -38,8 +38,6 @@ script AppDelegate
     end applicationWillFinishLaunching_
     
     on applicationShouldTerminate_(sender)
-        -- restore defaults
-        log("Bye")
         return current application's NSTerminateNow
     end applicationShouldTerminate_
     

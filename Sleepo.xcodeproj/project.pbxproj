@@ -282,12 +282,15 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				CURRENT_PROJECT_VERSION = 102023;
+				CURRENT_PROJECT_VERSION = 032025A;
 				INFOPLIST_FILE = "Sleepo-NoMacLidSleep/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = Sleepo;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.utilities";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/../Frameworks",
 				);
+				MARKETING_VERSION = 1.1;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.gregorgott.Sleepo-NoMacLidSleep";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
@@ -300,12 +303,15 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				CURRENT_PROJECT_VERSION = 102023;
+				CURRENT_PROJECT_VERSION = 032025A;
 				INFOPLIST_FILE = "Sleepo-NoMacLidSleep/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = Sleepo;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.utilities";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/../Frameworks",
 				);
+				MARKETING_VERSION = 1.1;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.gregorgott.Sleepo-NoMacLidSleep";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
